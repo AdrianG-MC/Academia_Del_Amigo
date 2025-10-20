@@ -4,6 +4,13 @@
 Its mission is to provide inclusive, equitable, and high-quality learning opportunities for everyone, everywhere.
 
 ---
+# NEW REPOSITORY
+
+**Academia del amigo** has changed repository. The newest and further actualizations will be there! Check the new repo here:
+https://github.com/Vizqui06/Project_Amigo_Academy
+
+
+---
 ## Introduction
 
 Education is one of the most powerful tools for human development and social progress. Yet, millions of people around the world lack access to quality education due to poverty, inequality, geography, or limited resources.  
@@ -11,6 +18,8 @@ Education is one of the most powerful tools for human development and social pro
 This website aims to break these barriers by building a global, open-access educational platform where learners can explore knowledge, grow skills, and collaborate with others across borders.
 
 This project represents a step toward ensuring that *no one is left behind* in the pursuit of knowledge.
+
+
 
 ---
 
@@ -59,5 +68,6 @@ Also, there are several sections that AI facilitated us to autocomplete by press
 - **Adrian Gallardo Medina** — [0263200@up.edu.mx](mailto:0263200@up.edu.mx)
 
 ---
+
 
 
