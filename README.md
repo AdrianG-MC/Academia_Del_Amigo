@@ -12,8 +12,7 @@ This website aims to break these barriers by building a global, open-access educ
 
 This project represents a step toward ensuring that *no one is left behind* in the pursuit of knowledge.
 
----
-
+-----------------------------
 ## The Problem & Solution
 
 - Over **244 million children and youth worldwide** remain out of school (UNESCO).  
