@@ -1,62 +1,66 @@
-# Academia del Amigo
+# NEW REPOSITORY
 
-**Academia del Amigo** is a free, web-based educational platform inspired by successful models such as Khan Academy and Udemy, but designed to be completely open, accessible, and aligned with the **United Nations Sustainable Development Goal 4 (Quality Education)**.  
-Its mission is to provide inclusive, equitable, and high-quality learning opportunities for everyone, everywhere.
+**Academia del amigo** has changed repository. The newest and further actualizations will be there! Check the new repo here:
+https://github.com/Vizqui06/Project_Amigo_Academy
 
----
-## Introduction
-
-Education is one of the most powerful tools for human development and social progress. Yet, millions of people around the world lack access to quality education due to poverty, inequality, geography, or limited resources.  
-
-This website aims to break these barriers by building a global, open-access educational platform where learners can explore knowledge, grow skills, and collaborate with others across borders.
-
-This project represents a step toward ensuring that *no one is left behind* in the pursuit of knowledge.
-
------------------------------
-## The Problem & Solution
-
-- Over **244 million children and youth worldwide** remain out of school (UNESCO).  
-- Adults face limited lifelong learning opportunities due to high costs or poor access to digital resources.  
-- Quality remains inconsistent: many learners attend school without acquiring essential skills.
-
-
-Key features:
-
-- **Free Content**: courses in math, science, languages, and critical thinking.  
-- **Adaptable Learning**: interactive lessons, from primary school to adult education.  
-- **Community Collaboration**: forums, study groups, and mentorship across cultures.  
-- **Open Contributions**: licensed teachers and subject experts can add and improve courses.  
-
----
-## AI Used in our Web
-
-Throughout the development of the project prototype, we’ve accepted Copilot’s autocompletion suggestions, reviewed what it implemented, and decided whether to keep them in our code or discard them.
-
-We accepted some proposals, among them the most important was the introduction and development of the contact section (name, email, and message fields), as a technical support feature for the page and an extra touch to make it more engaging. The structure and logic were made by the team consulting the presentations, online resources and AI suggestions and autocompleted; despite we have some AI content in our project code, we have taken the responsability by understanding the structure and logic of the AI generated code.
-
-The prompts used for the team are like:
-Chat, how can I add a tab in my HTML code so that a list is centered on the page without setting text-align: center?
-What changes do I need to make so that the page can be viewed well on both large screens (computers) and small screens (cell phones and tablets)?
-What is Bootstrap and how can I implement it on my code?
-
-Also, there are several sections that AI facilitated us to autocomplete by pressing tab. We could have make it by our own but, having the rest of the code ready to complete by pressing a key, how to refuse it?
+This repository its just a clone of the last commit at 21-10-2025 15:55pm
 
 ---
 
-## Technology Used
+Academia del Amigo - Web Project
+Description of the Project:
 
-- **HTML**
-- **CSS**
-
-  The future versions will expand those technologies and we may add a back-end solution and an improvement of the front-end. 
-
----
- ## Team & Contact
-
- - **Leonardo Etien Vizcaíno González** — [0272158@up.edu.mx](mailto:0272158@up.edu.mx)  
-- **Santiago Aguilar Arana** — [0272169@up.edu.mx](mailto:0272169@up.edu.mx)  
-- **Adrian Gallardo Medina** — [0263200@up.edu.mx](mailto:0263200@up.edu.mx)
-
----
+Academia del Amigo is a global educational platform designed to make quality education accessible to everyone, everywhere, completely free. Our project is directly inspired by the mission of the UN's Sustainable Development Goal 4 (SDG 4): to "ensure inclusive and equitable quality education and promote lifelong learning opportunities for all".
 
 
+In a world where access to learning is often limited by poverty, geography, or social status , this platform provides a digital solution to help close the education gap. Inspired by successful models like Khan Academy and Udemy , our goal is to empower individuals with the knowledge and skills they need to improve their lives and build a sustainable future.
+
+
+This repository contains the first version of the platform's front & back-end, built with a clean, accessible, and responsive interface and a simply but doing-the-job brains behind the scenes.
+
+Current Features:
+Responsive Design: The layout correctly adapts to mobile, tablet, and desktop screens using the Bootstrap 5 grid system.
+Dynamic & Fixed Navigation: The navbar remains visible at the top (sticky-top) and uses Scrollspy to automatically highlight the user's current section on the page.
+Modern Components: Built with Bootstrap components like "Cards" for course listings, a "Hero" section for impact, and a styled contact form.
+Custom Styling: While built on Bootstrap, the project features a custom color palette and typography to establish a unique brand identity.
+
+
+Technologies Used:
+HTML5: For semantic content structure.
+CSS3: For custom styling and branding.
+Bootstrap 5: The primary framework for responsive design, layout, and UI components.
+
+
+Installation and Local Use:
+As a static front-end project, no complex installation is required:
+Just clone or download this repository.
+Open the index2.html file in your web browser.
+
+
+Project Vision & Future Implementations:
+This project is the first phase of a scalable, long-term vision. The technical roadmap is designed to evolve this static site into a full-featured, dynamic platform.
+
+
+Planned Core Features (from our project proposal ):
+Free and Open Access: Core courses in mathematics, science, languages, and digital literacy will remain 100% free of charge.
+True Inclusiveness & Multilingual Design: The platform is intended to support multiple languages and accessibility tools for learners with disabilities.
+Community & Mentorship: Future versions will include spaces for discussion, study groups, and mentorship to connect learners and educators globally.
+
+
+Open Collaboration: 
+We plan to build a system where qualified educators, professionals, and volunteers can contribute, review, and update course content to ensure its quality and diversity.
+
+
+Technical Roadmap (in progress phases):
+
+Backend: An Express.js server will be built to handle business logic, contact form submissions, and user management.
+
+Database: A MongoDB database using Mongoose will be implemented to dynamically store and manage courses, user data, and platform content.
+
+Authentication: Users will be able to register and log in with Google to track their progress and participate in the community.
+
+Independance: The team will set up the page in a render host service. Because of the low traffic and low capital, the page will "wake up" whenever a user tries to go to the page. This avoids to local host the page in users machine and, having it on cloude with this strategy, save us lots of money.
+
+
+Future implementations:
+The page will soon have a full & complete back-end, database, authentication and live on the cloud, but there are no courses yet. We, as a team, have two options,create courses from AI or redirect to YouTube videos from world-renowned channels such as Harvard, MIT, etcetera. 
